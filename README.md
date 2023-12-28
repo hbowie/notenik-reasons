@@ -27,7 +27,7 @@ This is all of the Swift code written as part of the Notenik application. These 
 
 ## Documentation Repos
 
-These repositories contain various sorts of documentation about Notenik. 
+These repositories contain various sorts of documentation about Notenik. These are organized as Notenik Collections (that can be opened using Notenik).
 
 + [Knowledge Base](https://github.com/hbowie/notenik-KB) - Everything you might ever want to know about Notenik, including its version history
 + [Reasons to Use Notenik](https://github.com/hbowie/notenik-reasons) - All the reasons why one might want to make use of Notenik

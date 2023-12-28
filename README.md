@@ -30,7 +30,7 @@ This is all of the Swift code written as part of the Notenik application. These 
 These repositories contain various sorts of documentation about Notenik. 
 
 + [Knowledge Base](https://github.com/hbowie/notenik-KB) - Everything you might ever want to know about Notenik, including its version history
-+ [Reasons to Use Notenik](https://github.com/hbowie/notenik-reasons)
++ [Reasons to Use Notenik](https://github.com/hbowie/notenik-reasons) - All the reasons why one might want to make use of Notenik
 + [Tips](https://github.com/hbowie/notenik-tips) - Brief introductory tips on the use of Notenik
 + [Website](https://github.com/hbowie/notenik-web) - The files needed to generate and maintain the Notenik.app website
 
